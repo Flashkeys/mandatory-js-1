@@ -37,10 +37,10 @@ aboutp.textContent = newaboutp;
 ssabout.innerHTML="";
 
 let hp1 = document.createElement("h2");
-hp1.textContent = "about";
+hp1.textContent = "About";
 
 let hp2 = document.createElement("h2");
-hp2.textContent = "contact";
+hp2.textContent = "Contact";
 
 ssabout.appendChild(hp1);
 ssabout.appendChild(aboutp);
